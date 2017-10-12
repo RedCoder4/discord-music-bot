@@ -2,13 +2,13 @@
   "name": "discord-music-bot",
   "version": "2.3.0",
   "description": "Simple music bot for Discord servers.",
-  "main": "musicbot.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agubelu/discord-music-bot.git"
+    "url": "git+https://github.com/RedCoder4/discord-music-bot.git"
   },
   "keywords": [
     "discord",
@@ -18,7 +18,7 @@
   "author": "agubelu",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/agubelu/discord-music-bot/issues"
+    "url": "https://github.com/RedCoder4/discord-music-bot/issues"
   },
   "dependencies": {
     "discord.js": "^11.0.0",
@@ -29,5 +29,5 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "homepage": "https://github.com/agubelu/discord-music-bot#readme"
+  "homepage": "https://github.com/RedCoder4/discord-music-bot#readme"
 }
